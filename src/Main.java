@@ -14,6 +14,8 @@ public class Main {
         System.out.println("1~3 : Control flow Statements");
         System.out.println("4 : Array");
 
+        aaa.Car car = new aaa.Car("GS2000",2000,"검정");
+
 //클래스 실행
         while(x == 1) {
             System.out.print("숫자 입력 : ");
@@ -36,9 +38,5 @@ public class Main {
                     break;
             }
         }
-
-
-
-
     }
 }

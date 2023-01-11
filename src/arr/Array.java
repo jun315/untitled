@@ -10,11 +10,5 @@ public class Array {
             num[i] = i;
             System.out.println("num의 값" + num[i]);
         }
-
-
     }
-
-
-
-
 }
